@@ -1,2 +1,6 @@
 # Project exclude paths
 /exercism/
+.idea
+.vscode
+.pytest_cache
+test.py
